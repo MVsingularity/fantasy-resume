@@ -1,0 +1,31 @@
+  body  {
+    background-image: url('flag.jpeg');
+}
+
+  h1  {
+    color: blue;
+    font-family: cursive;
+}
+
+  header {
+  margin-bottom: 10px;
+}
+
+  footer {
+  margin-top: 100px;
+}
+
+  h2  {
+  font-family: cursive;
+  font-size: 150%
+}
+
+  h3  {
+  font-family: cursive;
+  font-size: 175%
+}
+
+  h4  {
+  font-family: cursive;
+  font-size: 200%
+}
